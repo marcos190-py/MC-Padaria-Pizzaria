@@ -91,7 +91,7 @@ export const CartModal = () => {
     if (deliveryType === 'delivery') {
       text += `⚠️ *IMPORTANTE:* Vou enviar minha localização atual abaixo para facilitar a entrega! 👇`;
     } else {
-      text += `👍 Já estou a caminho para retirar!`;
+      text += `👍 Já realizei o pedido, aguardo a previsão para retirar!`;
     }
 
     // ✅ FIX: Codificação mais robusta
