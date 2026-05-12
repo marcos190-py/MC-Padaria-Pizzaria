@@ -99,7 +99,7 @@ export const MENU_DATA = {
       id: "bebidas",
       titulo: "Bebidas",
       itens: [
-        { nome: "Coca-Cola 2L", preco: 14.00, imagem: "/items/coca2lt.webp" }, 
+        { nome: "Coca-Cola 2L", preco: 15.00, imagem: "/items/coca2lt.webp" }, 
         { nome: "Guaraná Antarctica 2L", preco: 12.00, imagem: "/items/guarana2lt.webp" },
         { nome: "Suco de Laranja 500ml", preco: 10.00 }, 
         { nome: "Água Mineral 500ml", preco: 4.00, imagem: "/items/agua500ml.webp" }
